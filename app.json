@@ -36,7 +36,7 @@
   },
   "buildpacks": [
     {
-      "url": "https://github.com/BotDevelopersHollow/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/TAMILBOTS/heroku-buildpack-ffmpeg-latest"
     },
     {
       "url": "heroku/python"
